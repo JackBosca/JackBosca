@@ -26,7 +26,9 @@
 </p>
 <p align="center">
     <!-- Second row -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="LaTeX" width="60" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"
+       alt="LaTeX" width="60" height="60"
+       style="filter: invert(1) brightness(200%);" />
 </p>
 <p align="center">
     <!-- Third row -->
