@@ -1,4 +1,6 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:B22222,100:3C3C3C&reversal=false&section=footer&descSize=25)
+<!-- ![Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:B22222,100:3C3C3C&reversal=false&section=footer&descSize=25) -->
+
+![My demo](gfx/tracer_normalized.gif)
 
 # Hi, I’m Jacopo 👋
 
@@ -41,4 +43,6 @@
   </a>
 </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:B22222,100:3C3C3C&reversal=false&section=header&descSize=25)
+![My demo](gfx/tracer_normalized.gif)
+
+<!-- ![Footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:B22222,100:3C3C3C&reversal=false&section=header&descSize=25) -->
