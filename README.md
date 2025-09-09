@@ -1,8 +1,8 @@
-<!-- ![Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:B22222,100:3C3C3C&reversal=false&section=footer&descSize=25) -->
+![Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:B22222,100:3C3C3C&reversal=false&section=footer&descSize=25)
 
-<p align="center">
+<!-- <p align="center">
   <img src="gfx/tracer_normalized.gif" alt="Fluid flow GIF">
-</p>
+</p> -->
 
 # Hi, I’m Jacopo 👋
 
@@ -45,8 +45,8 @@
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="gfx/tracer_normalized.gif" alt="Fluid flow GIF">
-</p>
+</p> -->
 
-<!-- ![Footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:B22222,100:3C3C3C&reversal=false&section=header&descSize=25) -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:B22222,100:3C3C3C&reversal=false&section=header&descSize=25)
