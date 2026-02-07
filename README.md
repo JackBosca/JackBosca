@@ -1,8 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:B22222,100:3C3C3C&reversal=false&section=footer&descSize=25)
-
-<!-- <p align="center">
-  <img src="gfx/tracer_normalized.gif" alt="Fluid flow GIF">
-</p> -->
+![Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:B0B0B0,100:3C3C3C&reversal=false&section=footer&descSize=25)
 
 # Hi, I’m Jacopo 👋
 
@@ -11,13 +7,14 @@
 - 🎓 **MSc in Mechanical Engineering (Minor in Data Science)**, EPFL (ongoing)
 
 ## 🔬 Specializations
-- 🌊 **Fluid Mechanics & CFD** — theory & simulations
-- 🤖 **Machine Learning** — data‑driven modeling & AI for engineering
+- 🌊 **Fluid Mechanics & CFD**: theory & simulations
+- 🤖 **Machine Learning**: data‑driven modeling & AI for engineering
 
 ## ✈️ Interests & Skills
-- ✈️ Aerospace design  
-- ⚙️ Mechanical systems & fluids
-- 📊 Machine learning algorithms
+- AI for physics and engineering
+- Machine learning algorithms
+- Aerospace design  
+- Mechanical systems & fluids
 
 ## 🔧 Tools
 
@@ -45,8 +42,4 @@
   </a>
 </p>
 
-<!-- <p align="center">
-  <img src="gfx/tracer_normalized.gif" alt="Fluid flow GIF">
-</p> -->
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:B22222,100:3C3C3C&reversal=false&section=header&descSize=25)
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:B0B0B0,100:3C3C3C&reversal=false&section=header&descSize=25)
