@@ -41,4 +41,4 @@
   </a>
 </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00204d,50:41536b,100:a1b5cc&reversal=true&section=header&descSize=25)
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:a1b5cc,50:41536b,100:00204d&reversal=true&section=header&descSize=25)
